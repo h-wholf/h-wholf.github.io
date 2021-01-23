@@ -1,0 +1,19 @@
+.body{
+  background-color: #151522;
+  
+}
+
+.titulo{
+  background-color: #122f6f;
+  border-radius: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #37ca3c;
+}
+
+.derecha{
+  background-color: #122f6f;
+  color: white;
+  float: right;
+  
+}
