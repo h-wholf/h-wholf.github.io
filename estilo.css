@@ -1,19 +1,50 @@
 .body{
-  background-color: #151522;
+  background-color: rgb(102,120,120);
   
 }
 
 .titulo{
-  background-color: #122f6f;
-  border-radius: 25px;
+  background-color: rgb(24,26,30);
+  
   text-align: center;
   text-transform: uppercase;
-  color: #37ca3c;
+  color: rgb(180,183,185);
 }
 
 .derecha{
   background-color: #122f6f;
   color: white;
-  float: right;
   
+  
+}
+
+.enlaces{
+  background-color: rgb(24,26,30);
+  
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(180,183,185);
+  
+}
+.gitx{
+  background-color: rgb(24,26,30);
+  
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(180,183,185);
+  
+}
+.letras{
+  background-color: rgb(24,26,30);
+  
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(180,183,185);
+}
+.translate{
+  background-color: rgb(24,26,30);
+  
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(180,183,185);
 }
