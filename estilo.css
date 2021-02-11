@@ -14,13 +14,17 @@
 .derecha{
   background-color: #122f6f;
   color: white;
-  
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgb(155,255,116);
   
 }
 
 .enlaces{
   background-color: rgb(24,26,30);
-  
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgb(12,104,255);
   text-align: center;
   text-transform: uppercase;
   color: rgb(180,183,185);
@@ -28,7 +32,9 @@
 }
 .gitx{
   background-color: rgb(24,26,30);
-  
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgb(12,238,255);
   text-align: center;
   text-transform: uppercase;
   color: rgb(180,183,185);
@@ -36,14 +42,18 @@
 }
 .letras{
   background-color: rgb(24,26,30);
-  
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgb(207,255,12);
   text-align: center;
   text-transform: uppercase;
   color: rgb(180,183,185);
 }
 .translate{
   background-color: rgb(24,26,30);
-  
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgb(12,255,86);
   text-align: center;
   text-transform: uppercase;
   color: rgb(180,183,185);
